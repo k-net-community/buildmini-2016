@@ -1,0 +1,14 @@
+{
+  "runtimes": {
+    "win7": {
+      "System.Diagnostics.Debug": {
+        "runtime.win7.System.Diagnostics.Debug": "4.0.11-beta-23516"
+      }
+    },
+    "unix": {
+      "System.Diagnostics.Debug": {
+        "runtime.unix.System.Diagnostics.Debug": "4.0.11-beta-23516"
+      }
+    }
+  }
+}

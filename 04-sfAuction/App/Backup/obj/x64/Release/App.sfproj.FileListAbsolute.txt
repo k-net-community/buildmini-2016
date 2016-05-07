@@ -1,0 +1,1 @@
+C:\sfAuction\App\obj\x64\Release\App.sfprojResolveAssemblyReference.cache

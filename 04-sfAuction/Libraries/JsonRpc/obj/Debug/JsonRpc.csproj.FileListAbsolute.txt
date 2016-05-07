@@ -1,0 +1,52 @@
+C:\Users\jeffreyr\OneDrive\Documents\Hyperscale\SFAuction\Libraries\JsonRpc\bin\Debug\SFAuction.JsonRpc.dll
+C:\Users\jeffreyr\OneDrive\Documents\Hyperscale\SFAuction\Libraries\JsonRpc\bin\Debug\SFAuction.JsonRpc.pdb
+C:\Users\jeffreyr\OneDrive\Documents\Hyperscale\SFAuction\Libraries\JsonRpc\bin\Debug\System.Web.WebPages.dll
+C:\Users\jeffreyr\OneDrive\Documents\Hyperscale\SFAuction\Libraries\JsonRpc\obj\Debug\JsonRpc.csprojResolveAssemblyReference.cache
+C:\Users\jeffreyr\OneDrive\Documents\Hyperscale\SFAuction\Libraries\JsonRpc\obj\Debug\SFAuction.JsonRpc.dll
+C:\Users\jeffreyr\OneDrive\Documents\Hyperscale\SFAuction\Libraries\JsonRpc\obj\Debug\SFAuction.JsonRpc.pdb
+C:\Users\Jeffrey\OneDrive\Documents\Hyperscale\SFAuction\Libraries\JsonRpc\bin\Debug\SFAuction.JsonRpc.dll
+C:\Users\Jeffrey\OneDrive\Documents\Hyperscale\SFAuction\Libraries\JsonRpc\bin\Debug\SFAuction.JsonRpc.pdb
+C:\Users\Jeffrey\OneDrive\Documents\Hyperscale\SFAuction\Libraries\JsonRpc\bin\Debug\System.Web.WebPages.dll
+C:\Users\Jeffrey\OneDrive\Documents\Hyperscale\SFAuction\Libraries\JsonRpc\obj\Debug\JsonRpc.csprojResolveAssemblyReference.cache
+C:\Users\Jeffrey\OneDrive\Documents\Hyperscale\SFAuction\Libraries\JsonRpc\obj\Debug\SFAuction.JsonRpc.dll
+C:\Users\Jeffrey\OneDrive\Documents\Hyperscale\SFAuction\Libraries\JsonRpc\obj\Debug\SFAuction.JsonRpc.pdb
+C:\Users\Jeffrey\OneDrive\Documents\Hyperscale\Course\sfAuction\Libraries\JsonRpc\obj\Debug\JsonRpc.csprojResolveAssemblyReference.cache
+C:\Users\Jeffrey\OneDrive\Documents\Hyperscale\Course\sfAuction\Libraries\JsonRpc\obj\Debug\SFAuction.JsonRpc.dll
+C:\Users\Jeffrey\OneDrive\Documents\Hyperscale\Course\sfAuction\Libraries\JsonRpc\obj\Debug\SFAuction.JsonRpc.pdb
+C:\Users\Jeffrey\OneDrive\Documents\Hyperscale\Course\sfAuction\Libraries\JsonRpc\bin\Debug\SFAuction.JsonRpc.dll
+C:\Users\Jeffrey\OneDrive\Documents\Hyperscale\Course\sfAuction\Libraries\JsonRpc\bin\Debug\SFAuction.JsonRpc.pdb
+C:\Users\Jeffrey\OneDrive\Documents\Hyperscale\Course\sfAuction\Libraries\JsonRpc\bin\Debug\System.Web.WebPages.dll
+C:\Users\jeffreyr\OneDrive\Documents\Hyperscale\_\04-sfAuction\Libraries\JsonRpc\bin\Debug\SFAuction.JsonRpc.dll
+C:\Users\jeffreyr\OneDrive\Documents\Hyperscale\_\04-sfAuction\Libraries\JsonRpc\bin\Debug\SFAuction.JsonRpc.pdb
+C:\Users\jeffreyr\OneDrive\Documents\Hyperscale\_\04-sfAuction\Libraries\JsonRpc\bin\Debug\System.Web.WebPages.dll
+C:\Users\jeffreyr\OneDrive\Documents\Hyperscale\_\04-sfAuction\Libraries\JsonRpc\obj\Debug\SFAuction.JsonRpc.dll
+C:\Users\jeffreyr\OneDrive\Documents\Hyperscale\_\04-sfAuction\Libraries\JsonRpc\obj\Debug\SFAuction.JsonRpc.pdb
+C:\Users\jeffreyr\OneDrive\Documents\Hyperscale\_\04-sfAuction\Libraries\JsonRpc\obj\Debug\JsonRpc.csprojResolveAssemblyReference.cache
+C:\Users\Jeffrey\OneDrive\Documents\Hyperscale\_\04-sfAuction\Libraries\JsonRpc\bin\Debug\SFAuction.JsonRpc.dll
+C:\Users\Jeffrey\OneDrive\Documents\Hyperscale\_\04-sfAuction\Libraries\JsonRpc\bin\Debug\SFAuction.JsonRpc.pdb
+C:\Users\Jeffrey\OneDrive\Documents\Hyperscale\_\04-sfAuction\Libraries\JsonRpc\bin\Debug\System.Web.WebPages.dll
+C:\Users\Jeffrey\OneDrive\Documents\Hyperscale\_\04-sfAuction\Libraries\JsonRpc\obj\Debug\SFAuction.JsonRpc.dll
+C:\Users\Jeffrey\OneDrive\Documents\Hyperscale\_\04-sfAuction\Libraries\JsonRpc\obj\Debug\SFAuction.JsonRpc.pdb
+C:\Users\Jeffrey\OneDrive\Documents\Hyperscale\_\04-sfAuction\Libraries\JsonRpc\obj\Debug\JsonRpc.csprojResolveAssemblyReference.cache
+C:\Users\Jeffrey\OneDrive\Documents\Hyperscale\_\04-sfAuction\135\Libraries\JsonRpc\bin\Debug\SFAuction.JsonRpc.dll
+C:\Users\Jeffrey\OneDrive\Documents\Hyperscale\_\04-sfAuction\135\Libraries\JsonRpc\bin\Debug\SFAuction.JsonRpc.pdb
+C:\Users\Jeffrey\OneDrive\Documents\Hyperscale\_\04-sfAuction\135\Libraries\JsonRpc\bin\Debug\Microsoft.ServiceFabric.Internal.dll
+C:\Users\Jeffrey\OneDrive\Documents\Hyperscale\_\04-sfAuction\135\Libraries\JsonRpc\bin\Debug\Microsoft.ServiceFabric.Internal.Strings.dll
+C:\Users\Jeffrey\OneDrive\Documents\Hyperscale\_\04-sfAuction\135\Libraries\JsonRpc\bin\Debug\System.Fabric.dll
+C:\Users\Jeffrey\OneDrive\Documents\Hyperscale\_\04-sfAuction\135\Libraries\JsonRpc\bin\Debug\System.Web.WebPages.dll
+C:\Users\Jeffrey\OneDrive\Documents\Hyperscale\_\04-sfAuction\135\Libraries\JsonRpc\bin\Debug\System.Fabric.xml
+C:\Users\Jeffrey\OneDrive\Documents\Hyperscale\_\04-sfAuction\135\Libraries\JsonRpc\bin\Debug\en-us\Microsoft.ServiceFabric.Internal.Strings.resources.dll
+C:\Users\Jeffrey\OneDrive\Documents\Hyperscale\_\04-sfAuction\135\Libraries\JsonRpc\obj\Debug\JsonRpc.csprojResolveAssemblyReference.cache
+C:\Users\Jeffrey\OneDrive\Documents\Hyperscale\_\04-sfAuction\135\Libraries\JsonRpc\obj\Debug\SFAuction.JsonRpc.dll
+C:\Users\Jeffrey\OneDrive\Documents\Hyperscale\_\04-sfAuction\135\Libraries\JsonRpc\obj\Debug\SFAuction.JsonRpc.pdb
+Z:\著作資料夾\Seminar Slides\2016-05-07 Build Mini 2016\04-sfAuction\Libraries\JsonRpc\bin\Debug\SFAuction.JsonRpc.dll
+Z:\著作資料夾\Seminar Slides\2016-05-07 Build Mini 2016\04-sfAuction\Libraries\JsonRpc\bin\Debug\SFAuction.JsonRpc.pdb
+Z:\著作資料夾\Seminar Slides\2016-05-07 Build Mini 2016\04-sfAuction\Libraries\JsonRpc\bin\Debug\Microsoft.ServiceFabric.Internal.dll
+Z:\著作資料夾\Seminar Slides\2016-05-07 Build Mini 2016\04-sfAuction\Libraries\JsonRpc\bin\Debug\Microsoft.ServiceFabric.Internal.Strings.dll
+Z:\著作資料夾\Seminar Slides\2016-05-07 Build Mini 2016\04-sfAuction\Libraries\JsonRpc\bin\Debug\System.Fabric.dll
+Z:\著作資料夾\Seminar Slides\2016-05-07 Build Mini 2016\04-sfAuction\Libraries\JsonRpc\bin\Debug\System.Web.WebPages.dll
+Z:\著作資料夾\Seminar Slides\2016-05-07 Build Mini 2016\04-sfAuction\Libraries\JsonRpc\bin\Debug\System.Fabric.xml
+Z:\著作資料夾\Seminar Slides\2016-05-07 Build Mini 2016\04-sfAuction\Libraries\JsonRpc\bin\Debug\en-us\Microsoft.ServiceFabric.Internal.Strings.resources.dll
+Z:\著作資料夾\Seminar Slides\2016-05-07 Build Mini 2016\04-sfAuction\Libraries\JsonRpc\obj\Debug\JsonRpc.csprojResolveAssemblyReference.cache
+Z:\著作資料夾\Seminar Slides\2016-05-07 Build Mini 2016\04-sfAuction\Libraries\JsonRpc\obj\Debug\SFAuction.JsonRpc.dll
+Z:\著作資料夾\Seminar Slides\2016-05-07 Build Mini 2016\04-sfAuction\Libraries\JsonRpc\obj\Debug\SFAuction.JsonRpc.pdb

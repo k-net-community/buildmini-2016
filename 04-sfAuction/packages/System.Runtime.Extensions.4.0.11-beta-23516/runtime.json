@@ -1,0 +1,19 @@
+{
+  "runtimes": {
+    "win7": {
+      "System.Runtime.Extensions": {
+        "runtime.win7.System.Runtime.Extensions": "4.0.11-beta-23516"
+      }
+    },
+    "linux": {
+      "System.Runtime.Extensions": {
+        "runtime.linux.System.Runtime.Extensions": "4.0.11-beta-23516"
+      }
+    },
+    "osx.10.10": {
+      "System.Runtime.Extensions": {
+        "runtime.osx.10.10.System.Runtime.Extensions": "4.0.11-beta-23516"
+      }
+    }
+  }
+}
