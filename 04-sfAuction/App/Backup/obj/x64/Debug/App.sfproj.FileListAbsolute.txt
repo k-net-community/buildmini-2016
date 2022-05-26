@@ -1,2 +1,0 @@
-C:\Users\jeffreyr\OneDrive\Documents\Hyperscale\_\04-sfAuction\App\obj\x64\Debug\App.sfprojResolveAssemblyReference.cache
-C:\sfAuction\App\obj\x64\Debug\App.sfprojResolveAssemblyReference.cache

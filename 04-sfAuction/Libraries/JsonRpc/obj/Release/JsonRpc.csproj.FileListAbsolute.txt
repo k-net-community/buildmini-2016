@@ -1,5 +1,0 @@
-C:\sfAuction\Libraries\JsonRpc\bin\Release\SFAuction.JsonRpc.dll
-C:\sfAuction\Libraries\JsonRpc\bin\Release\SFAuction.JsonRpc.pdb
-C:\sfAuction\Libraries\JsonRpc\bin\Release\System.Web.WebPages.dll
-C:\sfAuction\Libraries\JsonRpc\obj\Release\SFAuction.JsonRpc.dll
-C:\sfAuction\Libraries\JsonRpc\obj\Release\SFAuction.JsonRpc.pdb
